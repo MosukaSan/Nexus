@@ -30,5 +30,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java)](https://skillicons.dev)
 
-# Imporant ⚠️
+# Important ⚠️
 - Feel free to user my code, but please, don't copy my bot
