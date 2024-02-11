@@ -26,9 +26,8 @@
 - /clear
 
 # Made with:
-- **JDA v5**
-
 [![My Skills](https://skillicons.dev/icons?i=idea,java)](https://skillicons.dev)
+- **JDA v5**
 
 # Important ⚠️
 - Feel free to user my code, but please, don't copy my bot
