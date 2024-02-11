@@ -29,3 +29,6 @@
 - **JDA v5**
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java)](https://skillicons.dev)
+
+# Imporant ⚠️
+- Feel free to user my code, but please, don't copy my bot
