@@ -1,7 +1,7 @@
 # Nexus 🌀
-- A discord bot with multiple purposes.
-- Made with JDA 
-- Under development
+- A discord bot with multiple purposes;
+- Made with JDA;
+- Under development.
 
 # Commands ⌨️
 **Bot:**
@@ -30,4 +30,4 @@
 - **JDA v5**
 
 # Important ⚠️
-- Feel free to user my code, but please, don't copy my bot
+- Feel free to user my code, but please, don't copy my bot.
